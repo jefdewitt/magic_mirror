@@ -1,0 +1,416 @@
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Starting MagicMirror: v2.1.0
+Loading config ...
+WARNING! Could not find config file. Please create one. Starting with default configuration.
+Loading module helpers ...
+Initializing new module helper ...
+No helper found for module: helloworld.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Sockets connected & modules started ...
+Launching application.
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Starting MagicMirror: v2.1.0
+Loading config ...
+WARNING! Could not find config file. Please create one. Starting with default configuration.
+Loading module helpers ...
+Initializing new module helper ...
+No helper found for module: helloworld.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Sockets connected & modules started ...
+Launching application.
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: compliments.
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+Initializing new module helper ...
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Connecting socket for: newsfeed
+Starting module: newsfeed
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: http://www.calendarlabs.com/templates/ical/US-Holidays.ics - Interval: 300000
+Create new news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: compliments.
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+Initializing new module helper ...
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Connecting socket for: newsfeed
+Starting module: newsfeed
+Sockets connected & modules started ...
+Whoops! There was an uncaught exception...
+{ Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at net.js:1399:9
+    at _combinedTickCallback (internal/process/next_tick.js:77:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+    at Module.runMain (module.js:592:11)
+    at run (bootstrap_node.js:402:7)
+    at startup (bootstrap_node.js:157:9)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 8080 }
+MagicMirror will not quit, but it might be a good idea to check why this happened. Maybe no internet connection?
+If you think this really is an issue, please open an issue on GitHub: https://github.com/MichMich/MagicMirror/issues
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+WARNING! Could not validate config file. Please correct syntax errors. Starting with default configuration.
+Loading module helpers ...
+Initializing new module helper ...
+No helper found for module: helloworld.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Could not resolve host: github.com
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+fatal: unable to access 'https://github.com/MichMich/MagicMirror.git/': Failed to connect to github.com port 443: No route to host
+
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/render#main_7 - Interval: 300000
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/ical/iknowyukondewitt%40gmail.com/private-69b105af138d59358d56138c7190f787/basic.ics - Interval: 300000
+
+> magicmirror@2.1.0 start /home/pi/MagicMirror
+> electron js/electron.js
+
+Xlib:  extension "RANDR" missing on display ":0".
+Starting MagicMirror: v2.1.0
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+No helper found for module: clock.
+Initializing new module helper ...
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+All module helpers loaded.
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: calendar
+Starting node helper for: calendar
+Sockets connected & modules started ...
+Xlib:  extension "RANDR" missing on display ":0".
+Launching application.
+Create new calendar fetcher for url: https://calendar.google.com/calendar/ical/iknowyukondewitt%40gmail.com/private-69b105af138d59358d56138c7190f787/basic.ics - Interval: 300000

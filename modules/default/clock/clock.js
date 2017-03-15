@@ -23,7 +23,7 @@ Module.register("clock",{
 		analogPlacement: "bottom", // options: 'top', 'bottom', 'left', 'right'
 		analogShowDate: "top", // options: false, 'top', or 'bottom'
 		secondsColor: "#888888",
-		timezone: null,
+		timezone: 'America/New_York',
 	},
 	// Define required scripts.
 	getScripts: function() {
@@ -81,8 +81,8 @@ Module.register("clock",{
 		}
 
 		if (this.config.timeFormat !== 24) {
-			// var now = new Date();
-			// var hours = now.getHours() % 12 || 12;
+			//var now = new Date();
+			//var hours = now.getHours() % 12 || 12;
 			if (this.config.clockBold === true) {
 				//timeString = hours + moment().format("[<span class=\"bold\">]mm[</span>]");
 				timeString = now.format("h[<span class=\"bold\">]mm[</span>]");

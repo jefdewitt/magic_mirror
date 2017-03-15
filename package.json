@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/MichMich/MagicMirror#readme",
   "devDependencies": {
-    "grunt": "latest",
+    "grunt": "^1.0.1",
     "grunt-eslint": "latest",
     "grunt-jsonlint": "latest",
     "grunt-markdownlint": "^1.0.13",
     "grunt-stylelint": "latest",
-    "grunt-yamllint": "latest",
+    "grunt-yamllint": "^0.2.0",
     "stylelint-config-standard": "latest",
     "time-grunt": "latest"
   },

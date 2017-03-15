@@ -13,24 +13,24 @@ Module.register("compliments",{
 	defaults: {
 		compliments: {
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Fortune favors the bold.",
+				"Labor omnia vincit.",
+				"This is greatest day of your life."
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
-				"Looking good today!"
+				"Gratefulness is the key to happiness.",
+				"The master has failed more times than the beginner has even tried.",
+				"Every step is in the right direction."
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"The morning is wiser than the night.",
+				"Amat victoria curam.",
+				"Don't find yourself, build yourself."
 			]
 		},
 		updateInterval: 30000,
 		remoteFile: null,
-		fadeSpeed: 4000
+		fadeSpeed: 10000
 	},
 
 	// Set currentweather from module

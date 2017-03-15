@@ -1,4 +1,4 @@
-* Magic Mirror
+# Magic Mirror
 
 Magic Mirror is a smart mirror featuring a built-in display that shows weather, time, current temperature, and more. I used a a Raspberry Pi 3 and a hand built wooden frame with an LCD mounted behind glass overlayed with mirror window tint. I built my Magic Mirror based on Micheal Teeuw's own Magic Mirror [project](https://www.raspberrypi.org/blog/magic-mirror/), including repo files and available documentation.
 
